@@ -1,0 +1,75 @@
+body{
+  background-image:url(../esame/image/background.jpg);
+  background-size:cover;
+  margin: 100px;
+}
+
+.gray-space{
+  background-color:rgb(0,0,0,0.5);
+  width: 850px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 8px;
+  padding: 100px;
+}
+/* FINE BACKGROUNG*/
+/* INIZIO LOGO E TITOLO */
+
+img{
+  text-align: left;
+  height: 108px;
+  width: 233px;
+  margin-left: 300px;
+}
+
+.titolo{
+  color: lime;
+  text-align: center;
+  margin-top: 1px;
+  margin-bottom: 2px;
+}
+/* INIZIO NAVIGAZIONE DELLA PAGINA*/
+
+.parte-verde{
+  background-color: lime;
+  height: 19px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.bottoni{
+  text-align: center;
+}
+/* INIZIO LISTA */
+
+.testo{
+  color: white;
+  opacity: 1;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.arancione{
+  background-color:orange;
+  color: orange;
+  margin-right: 70%;
+}
+
+.verde{
+  background-color:green;
+  color: green;
+  margin-right: 44%;
+}
+
+.rosso{
+  background-color: red;
+  color: red;
+  margin-right: 85%;
+}
+
+.monopattino{
+  display: inline-block;
+  margin-bottom: 1px;
+
+}
